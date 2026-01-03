@@ -4,3 +4,4 @@
 
 > The game uses an HTML5 Canvas to render the ball, paddle, and bricks dynamically. 
 
+>

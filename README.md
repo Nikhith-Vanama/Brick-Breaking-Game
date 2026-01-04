@@ -5,3 +5,4 @@
 > The game uses an HTML5 Canvas to render the ball, paddle, and bricks dynamically. 
 
 > JavaScript handles the game logic, including ball movement, collision detection, and scoring.
+

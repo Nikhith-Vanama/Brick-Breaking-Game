@@ -6,4 +6,4 @@
 
 > JavaScript handles the game logic, including ball movement, collision detection, and scoring.
 
->
+> 

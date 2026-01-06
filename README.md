@@ -6,4 +6,4 @@
 
 > JavaScript handles the game logic, including ball movement, collision detection, and scoring.
 
-> 
+> CSS is used to style the game layout and improve the visual appearance of the interface. 

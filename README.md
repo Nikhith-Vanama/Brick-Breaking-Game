@@ -12,4 +12,4 @@
 
 > The ball bounces off walls, the paddle, and bricks based on real-time collision calculations.
 
-> 
+> Each brick broken increases the player’s score and removes the brick from the canvas.

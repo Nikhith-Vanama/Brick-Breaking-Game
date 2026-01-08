@@ -11,3 +11,4 @@
 > The player controls the paddle using keyboard arrow keys or mouse movement.
 
 > The ball bounces off walls, the paddle, and bricks based on real-time collision calculations.
+

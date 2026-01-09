@@ -14,3 +14,4 @@
 
 > Each brick broken increases the player’s score and removes the brick from the canvas.
 
+>

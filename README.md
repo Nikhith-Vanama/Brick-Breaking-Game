@@ -14,4 +14,4 @@
 
 > Each brick broken increases the player’s score and removes the brick from the canvas.
 
->
+> The game ends when all bricks are destroyed or the ball falls below the paddle.

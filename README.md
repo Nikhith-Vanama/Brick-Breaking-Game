@@ -18,3 +18,4 @@
 
 > The project demonstrates core concepts of game loops, event handling, and animations.
 
+> 

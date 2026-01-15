@@ -17,3 +17,4 @@
 > The game ends when all bricks are destroyed or the ball falls below the paddle.
 
 > The project demonstrates core concepts of game loops, event handling, and animations.
+

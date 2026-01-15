@@ -16,3 +16,4 @@
 
 > The game ends when all bricks are destroyed or the ball falls below the paddle.
 
+> 
